@@ -1,5 +1,5 @@
 venv
 config.py
 example.py
-datasets/
+*.json
 *__pycache__

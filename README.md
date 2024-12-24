@@ -5,8 +5,8 @@ This project is designed to process streaming data using Apache Spark and perfor
 
 
 ## Architecture
-![alt text](System_architecture.png)
 
+![alt text](assets/System_architecture.png)
 
 
 ## Prerequisites
