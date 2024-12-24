@@ -1,6 +1,6 @@
 config = {
-    "openai": {
-        "groq": "groq"
+    "groq": {
+        "groq": "groq_key"
     },
     "kafka": {
         "sasl.username": "KAFKA_CLUSTER_API_KEY",
